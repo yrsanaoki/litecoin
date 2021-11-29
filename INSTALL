@@ -1,0 +1,9 @@
+Building Poohcoin
+
+See doc/readme-qt.rst for instructions on building Poohcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Poohcoin.
+
+See doc/build-*.txt for instructions on building poohcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Poohcoin.
